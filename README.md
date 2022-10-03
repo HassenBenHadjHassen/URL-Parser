@@ -1,2 +1,2 @@
 # URL-Parser
-Extract linked &lt;href> from websites
+Extract &lt;a> tags from websites
